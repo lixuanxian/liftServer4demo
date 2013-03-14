@@ -1,0 +1,8 @@
+body { margin: 1em; background-color: white; font-family: sans-serif;}
+h1 { padding: 1em; }
+table { border: 1px solid black; border-collapse: collapse; }
+th { border-width: 0px; border-style: solid; border-color: grey; padding: 0.5em; background-color: #aaaa99;}
+td { border-width: 0px 0px 1px 0px; border-style: dotted; border-color: #cccccc; padding: 0.5em;
+  text-align: right;}
+.total-header td { color: white; background-color: black; padding: 0.5em; border-width: 0;}
+.total td { background-color: #cccc99; border-width: 0;} 
